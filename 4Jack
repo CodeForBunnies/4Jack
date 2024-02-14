@@ -1,0 +1,18 @@
+print( "¡Hola Jack! ¡Espero que estés bien!")
+desayuno = input("¿Ya desayunaste?: ")
+if desayuno == "si":
+  print("¡Bien! ¡Necesitas energía para tu día!")
+else: print ( "¡Debes desayunar!")
+
+favfood = input("¿Cuál es tu comida favorita?: ")
+print ("¡",favfood, "es una excelente elección! Mi comida favorita es milanesa con papas fritas.")
+
+clima = input("¿Cómo está el clima hoy en Austin?: ")
+print("En Ciudad de México, el clima está caluroso estos días, tanto que las jacarandas están empezando a florecer, lo cual me da un poco de miedo")
+
+hobbies = input("¿Cuáles son tus pasatiempos?: ")
+print("¡Wow! ¡Eso es genial! Yo quiero seguir mejorando mi costura y seguir pintando minis pero últimamente no he tenido mucho tiempo.")
+
+print("¡Ojalá podamos comer", favfood, "cuando visites la ciudad y que tengas tiempo para descansar y", hobbies, " este fin de semana ¡Gracias por hablar conmigo! ¡Espero que te haya gustado! ¡Hasta luego!")
+
+print("¡Te mando un abrazo!")
